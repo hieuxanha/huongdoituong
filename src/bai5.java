@@ -67,7 +67,7 @@ abstract class Sach{
         this.soluong = soluong;
         this.dongia = dongia;
     }
-    // phan nhap vao
+       // hlclabcjlbsal
     public void input(){
         Scanner sc=new Scanner(System.in);
         System.out.println("nhập mã sách : "+masach);

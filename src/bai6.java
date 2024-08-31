@@ -85,7 +85,8 @@ abstract class Sinhvien1{
 
     public abstract void outPut();
 }
-class hocvien extends Sinhvien1{
+//hieu1237608965
+   class hocvien extends Sinhvien1{
     private String hinhthucdaotao;
     private String trinhdongoaingu;
     private Double dtb;
