@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 //: Mã sinh viên, họ tên, lớp, chuyên ngành, địa chỉ, số điện thoại.
 abstract class Sinhvien1{
+    //hieu dz nhất cầ giấygit
     private int masinhvien;
     private String hoten;
     private String chuyennganh;
